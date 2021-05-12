@@ -1,4 +1,8 @@
-Type checks
+Install Homebrew. 
+
+Follow the steps on the https://treehouse.github.io/installation-guides/mac/homebrew to install Homebrew.
+
+Download Node
 ^^^^^^^^^^^
 
 Running type checks with mypy:
